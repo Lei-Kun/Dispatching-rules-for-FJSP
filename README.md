@@ -17,4 +17,4 @@ https://doi.org/10.1016/j.eswa.2022.117796.
 # Introduction
 We chose the top-ranked (for FJSP with minimizing the makespan objective) four job sequencing rules and two machine assignment dispatching rules and combined them as eight compound dispatching rules as the baseline in our paper, i.e., four job sequencing dispatching rules including First in First Out (FIFO), Most Operation Number Remaining (MOPNR), Least Work Remaining (LWKR), and Most Work Remaining (MWKR), and two machine assignment dispatching rules including Shortest Processing Time (SPT) and Earliest End Time (EET). The eight compound dispatching rules are used as the benchmark for testing the performance of the proposed end-to-end DRL framework.
 
-You can download form FJSP benchmark website to test other FJSP instances.   
+You can download form FJSP benchmark website https://github.com/leikun-starting/FJSP-benchmarks to test other FJSP instances.   
