@@ -1,6 +1,6 @@
 # Dispatching-rules-for-DFJSP (Gantt-chart-for-FJSP)
 
-This project is the implement of the baseline methods of the published paper "A Multi-action Deep Reinforcement Learning Framework for Flexible Job-shop Scheduling Problem". Paper link: https://www.sciencedirect.com/science/article/pii/S0957417422010624
+This project is the implement of baseline methods of our published paper "A Multi-action Deep Reinforcement Learning Framework for Flexible Job-shop Scheduling Problem". Paper link: https://www.sciencedirect.com/science/article/pii/S0957417422010624
 
 Everyone is welcome to use our code and cite our paper.
 
